@@ -96,7 +96,7 @@ platform :ios do
     upload_to_testflight(
       api_key: api_key,
       skip_submission: false,
-      ipa: "Loop.ipa",
+      ipa: "LoopFollow.ipa",
       changelog: "Monthly Update",
       distribute_external: true,
       groups: [
