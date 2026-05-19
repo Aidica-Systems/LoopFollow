@@ -114,7 +114,9 @@ platform :ios do
       changelog: "Monthly Update",
       distribute_external: true,
       groups: [
-        "SK Endocrinology and Diabetes Program"
+		"External",
+		"Montreal Children's hospital",
+		"SK Endocrinology and Diabetes Program"
       ],
       skip_waiting_for_build_processing: false,
     )
